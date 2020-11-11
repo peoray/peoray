@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 
 - 👯 I’m looking to collaborate on impactful OSS projects
+- :writing_hand: Blog about my experiences and stuff I learn about at [peoray.dev](https://peoray.dev)
 - 💬 Ask me about TailwindCSS, JavaScript, Vue, MongoDB
 - 📫 How to reach me: [peoray_](twitter.com/peoray_)
 - 😄 Pronouns: he/him
