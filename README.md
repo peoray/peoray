@@ -2,7 +2,7 @@
 
 I'm a Software Developer and Technical Writer who is passionate about Open Source and Learning in Public.
 
-I’ve been doing software development for over 4+ years and enjoy working with technologies such as Javascript, Vue, Node, MongoDB, TailwindCSS, etc. Currently, I work with Javascript and enjoy writing and teaching it through code and words. I put great emphasis on code quality, testing and performance throughout my projects.
+I’ve been doing software development for over 4+ years and enjoy working with technologies such as Javascript, Vue, Node, MongoDB, TailwindCSS, etc. Currently, I work with Javascript and enjoy writing and teaching it through code and words. I put great emphasis on code quality, user experience, developer experience, documentation, testing and performance throughout my projects.
 
 Besides programming and writing, I enjoy watching football (real one) and movies, playing chess when I can, hanging out with friends and family, reading books, and doing my best to learn the Guitar.
 
