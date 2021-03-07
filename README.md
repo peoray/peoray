@@ -1,6 +1,6 @@
 ### Hi, I'm Emmanuel 👋
 
-I'm a Software Developer and Technical Writer who is passionate about Open Source and Learning in Public.
+I'm a JavaScript Software Developer and Technical Writer who is passionate about Open Source and Learning in Public.
 
 I’ve been doing software development for over 4+ years and enjoy working with technologies such as Javascript, Vue, Node, MongoDB, TailwindCSS, etc. Currently, I work with Javascript and enjoy writing and teaching it through code and words. I put great emphasis on code quality, user experience, developer experience, documentation, testing and performance throughout my projects.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on impactful OSS projects
 - :writing_hand: Blog about my experiences and stuff I learn about at [peoray.dev](https://peoray.dev)
-- 💬 Ask me about TailwindCSS, JavaScript, Vue, MongoDB
+- 💬 Ask me about TailwindCSS, JavaScript, Vue, Vue Chakra UI, Nuxt, MongoDB
 - 📫 How to reach me: [peoray_](twitter.com/peoray_)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have never watched an anime
