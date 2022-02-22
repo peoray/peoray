@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on impactful OSS projects
 - :writing_hand: Blog about my experiences and stuff I learn about at [peoray.dev](https://peoray.dev)
-<!-- - 💬 Ping me about Vue, Nuxt, Vue Chakra UI -->
 - 📫 Reach me via: [Email](mailto:emmanuelrayymond@gmail.com) | [LinkedIn](https://www.linkedin.com/in/peoray/) | [Twitter](https://twitter.com/peoray_)
 - ⚡ Fun fact: I have never watched anime
+<!-- - 💬 Ping me about Vue, Nuxt, Vue Chakra UI -->
+
