@@ -1,10 +1,10 @@
 ### Hi, I'm Emmanuel 👋
 
-I'm a Software Engineer who have interest in Open Source and Learning in Public.
+I'm a Software Engineer who has an interest in Open Source and Learning in Public.
 
 I’ve been doing software development for over 4 years and enjoy working with technologies such as Javascript, Vue, Node, MongoDB, TailwindCSS, etc.
 
-Besides programming and writing, I enjoy watching football and movies, playing chess when I can, hanging out with friends and family, reading books, and doing my best to learn the Guitar.
+Besides programming and writing, I enjoy watching football and movies, playing chess when I can, hanging out with friends and family, reading books, and doing my best to learn Guitar.
 
 <!--
 **peoray/peoray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
