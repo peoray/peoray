@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on impactful OSS projects
 - :writing_hand: Blog about my experiences and stuff I learn about at [peoray.dev](https://peoray.dev)
 - 📫 Reach me via: [Email](mailto:emmanuelrayymond@gmail.com) | [LinkedIn](https://www.linkedin.com/in/peoray/) | [Twitter](https://twitter.com/peoray_)
-- ⚡ Fun fact: I have never watched anime
+- ⚡ Fun fact: You can [buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work
 <!-- - 💬 Ping me about Vue, Nuxt, Vue Chakra UI -->
 
