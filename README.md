@@ -1,12 +1,12 @@
-### Hi, I'm Emmanuel 👋
+### Hi, I'm Raymond 👋
 
-I'm a Software Engineer who has an interest in Open Source and Learning in Public.
+I'm a Software Engineer interested in Open Source and Learning in Public.
 
 
 <!-- I’ve been doing software development for over 4 years and enjoy working with technologies such as Javascript, Vue, Node, MongoDB, TailwindCSS, etc. -->
 
 <!--
-Besides programming and writing, I enjoy watching football and movies, playing chess when I can, hanging out with friends and family, reading books, and doing my best to learn Guitar.
+Besides programming and writing, I enjoy watching football and movies, playing chess when possible, hanging out with friends and family, reading books, and doing my best to learn Guitar.
 -->
 
 <!--
