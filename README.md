@@ -6,9 +6,7 @@ Some of the products we've launched:
 
 1. [Nuxt SaaS Kit](https://nuxtsaaskit.com/?utm_source=github) - A production-ready Nuxt SaaS starter kit
 2. [Letterly](https://useletterly.com/?utm_source=github) - Write a letter to your future self
-3. [Linkvoy](https://linkvoy.com/?utm_source=github) - The operating system for professional wedding planners
-
-#### Open source
+<!-- 3. [Linkvoy](https://linkvoy.com/?utm_source=github) - The operating system for professional wedding planners -->
 
 I also enjoy building and contributing to open-source software.
 
@@ -22,7 +20,9 @@ Some of the projects include:
  
 I'm usually hacking on something new and sharing the process along the way.
 
-☕ [Buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work.
+<!-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work. -->
+
+
 
 <div>
   <a href="https://commit-history.com/peoray">
