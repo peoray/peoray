@@ -1,28 +1,34 @@
 ### Hi, I'm Raymond 👋
 
-I'm a Software Engineer building products in public and having fun while at it 😀
+I'm a Software Engineer, and I enjoy building stuff in public. I run [Okikelabs](https://okikelabs.com/?utm_source=github), a product studio where I build and launch focused SaaS products. You can [buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work!
 
+Some of the products we've launched:
 
-<!-- I’ve been doing software development for over 4 years and enjoy working with technologies such as Javascript, Vue, Node, MongoDB, TailwindCSS, etc. -->
+1. [Nuxt SaaS Kit](https://nuxtsaaskit.com/?utm_source=github) - A production-ready Nuxt SaaS starter kit
+2. [Letterly](https://useletterly.com/?utm_source=github) - Write a letter to your future self
+3. [Linkvoy](https://linkvoy.com/?utm_source=github) - The operating system for professional wedding planners
 
-<!--
-Besides programming and writing, I enjoy watching football and movies, playing chess when possible, hanging out with friends and family, reading books, and doing my best to learn Guitar.
--->
+#### Open source
 
-<!--
-**peoray/peoray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I also enjoy building and contributing to open-source software.
 
-Here are some ideas to get you started:
+I created [Vueport](https://github.com/vuepont/), an organization focused on bringing popular and useful React libraries, components, and developer tools to the Vue ecosystem.
 
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 👯 I’m looking to collaborate on impactful OSS projects -->
-<!-- - 💬 Ping me about Vue, Nuxt, Vue Chakra UI -->
+Some of the projects include:
 
-- 🔭 I run a product studio called [Okikelabs](https://okikelabs.com) where I build (micro)saas products.
-- 🚀 I co-created [Nuxt SaaS Kit](https://www.nuxtsaaskit.com/), a Nuxt SaaS Starter Kit that helps you quickly launch your idea.
-- :writing_hand: Blog about my experiences and stuff I learn about at [peoray.dev](https://peoray.dev)
-- 📫 Reach me via: [Email](mailto:emmanuelrayymond@gmail.com) | [LinkedIn](https://www.linkedin.com/in/peoray/) | [Twitter](https://twitter.com/peoray_)
-- ⚡ Fun fact: You can [buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work
+1. [Base UI Vue](https://baseui-vue.com/) - Unstyled UI components for building accessible user interfaces
+2. [AI Elements Vue](https://www.ai-elements-vue.com/) - Component library built on top of shadcn-vue to help you build AI-native applications faster
+3. [Elevenlabs UI Vue](https://elevenlabs-ui-vue.com/) - A collection of open-source agent and audio components that you can customize and extend
+ 
+I'm usually hacking on something new and sharing the process along the way.
 
+☕ [Buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work.
+
+<div>
+  <a href="https://commit-history.com/peoray">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/peoray?theme=dark" />
+      <img alt="peoray's commit history" src="https://commit-history.com/embed/peoray" />
+    </picture>
+  </a>
+</div>
