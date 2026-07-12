@@ -4,8 +4,8 @@ I'm a Software Engineer, and I enjoy building stuff in public. I run [Okikelabs]
 
 Some of the products I've launched:
 
-1. [Nuxt SaaS Kit](https://nuxtsaaskit.com/?utm_source=github) - A production-ready Nuxt SaaS starter kit
-2. [Letterly](https://useletterly.com/?utm_source=github) - Write a letter to your future self
+- [Nuxt SaaS Kit](https://nuxtsaaskit.com/?utm_source=github) - A production-ready Nuxt SaaS starter kit
+- [Letterly](https://useletterly.com/?utm_source=github) - Write a letter to your future self
 <!-- 3. [Linkvoy](https://linkvoy.com/?utm_source=github) - The operating system for professional wedding planners -->
 
 I also enjoy building and contributing to open-source software.
@@ -14,9 +14,9 @@ I created [Vueport](https://github.com/vuepont/), an organization focused on bri
 
 Some of the projects include:
 
-1. [Base UI Vue](https://baseui-vue.com/) - Unstyled UI components for building accessible user interfaces
-2. [AI Elements Vue](https://www.ai-elements-vue.com/) - Component library built on top of shadcn-vue to help you build AI-native applications faster
-3. [Elevenlabs UI Vue](https://elevenlabs-ui-vue.com/) - A collection of open-source agent and audio components that you can customize and extend
+- [Base UI Vue](https://baseui-vue.com/) - Unstyled UI components for building accessible user interfaces
+- [AI Elements Vue](https://www.ai-elements-vue.com/) - Component library built on top of shadcn-vue to help you build AI-native applications faster
+- [Elevenlabs UI Vue](https://elevenlabs-ui-vue.com/) - A collection of open-source agent and audio components that you can customize and extend
  
 I'm usually hacking on something new and sharing the process along the way.
 
