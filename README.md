@@ -1,8 +1,8 @@
 ### Hi, I'm Raymond 👋
 
-I'm a Software Engineer, and I enjoy building stuff in public. I run [Okikelabs](https://okikelabs.com/?utm_source=github), a product studio where I build and launch focused SaaS products. You can [buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work!
+I'm a Software Engineer, and I enjoy building stuff in public. I run [Okikelabs](https://okikelabs.com/?utm_source=github), a product studio where I build and launch focused SaaS products.
 
-Some of the products we've launched:
+Some of the products I've launched:
 
 1. [Nuxt SaaS Kit](https://nuxtsaaskit.com/?utm_source=github) - A production-ready Nuxt SaaS starter kit
 2. [Letterly](https://useletterly.com/?utm_source=github) - Write a letter to your future self
