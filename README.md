@@ -6,7 +6,7 @@ Some of the products I've launched:
 
 - [Nuxt SaaS Kit](https://nuxtsaaskit.com/?utm_source=github) - A production-ready Nuxt SaaS starter kit
 - [Letterly](https://useletterly.com/?utm_source=github) - Write a letter to your future self
-<!-- 3. [Linkvoy](https://linkvoy.com/?utm_source=github) - The operating system for professional wedding planners -->
+- [Linkvoy](https://linkvoy.com/?utm_source=github) - The operating system for professional wedding planners
 
 I also enjoy building and contributing to open-source software.
 
