@@ -1,6 +1,8 @@
 <!-- ### Hi, I'm Raymond 👋 -->
 
-I'm usually hacking on something new and sharing the process along the way. On the side, I run [Okikelabs](https://okikelabs.com/?utm_source=github), a product studio where I build products I care about.
+I'm usually hacking on something new and sharing the process. 
+
+<!-- On the side, I run [Okikelabs](https://okikelabs.com/?utm_source=github), a product studio where I build products I care about. -->
 
 
 <!-- Some of the products I've launched:-->
@@ -15,13 +17,16 @@ I'm usually hacking on something new and sharing the process along the way. On t
 
 <!-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work. -->
 
+### Connect with me:
+[![X / Twitter](https://img.shields.io/badge/X-@peoray_-black?logo=x)](https://twitter.com/peoray_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-peoray-blue?logo=linkedin)](https://linkedin.com/in/peoray)
 
 
-<div>
+
+<!-- <div>
   <a href="https://commit-history.com/peoray">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/peoray?theme=dark" />
       <img alt="peoray's commit history" src="https://commit-history.com/embed/peoray" />
     </picture>
   </a>
-</div>
+</div> -->
