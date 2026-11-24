@@ -17,7 +17,7 @@ I'm usually hacking on something new and sharing the process.
 
 <!-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/peoray) to support my work. -->
 
-### Connect with me:
+##### Connect with me:
 [![X / Twitter](https://img.shields.io/badge/X-@peoray_-black?logo=x)](https://twitter.com/peoray_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-peoray-blue?logo=linkedin)](https://linkedin.com/in/peoray)
 
 
